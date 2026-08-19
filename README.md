@@ -182,7 +182,7 @@ The Hotel Management System project is a successful demonstration of advanced OO
 
 ### Kashif Hafeez
 
-[![Email](https://img.shields.io/badge/Email-kashifkhan117401%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashifkhan117401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kashif.hafeez.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashif.hafeez.dev@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kashifhafeez-portfolio1.vercel.app/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5604--3264-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5604-3264)
